@@ -19,12 +19,12 @@ public class Prime {
 			
 			if(temp>0) {
 				
-				System.out.println("num is not prime");
+				System.out.println(num+ "num is not prime");
 			}
 			
 			else{
 				
-				System.out.println("num is prime");
+				System.out.println(num+ "num is prime");
 				
 			}
 			
